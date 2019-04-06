@@ -1,13 +1,3 @@
-/*	Aaron Shehan
-	ats0109
-	aaronshehan@my.unt.edu
-	CSCE 1040
-	Computer Science and Engineering
-	Homework 5*/
-
-
-
-
 #include <iostream>
 #include <string>
 #include "CrewMembers.h"
